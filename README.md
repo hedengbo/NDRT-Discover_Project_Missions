@@ -25,4 +25,4 @@ to recall the target phrase and compare it with the ones on the screen.
 
 - Please cite this code as:
 
-He D. & Donmez B. (2023). Dicovery Project Missions: A Visual-Manual Secondary Task. 
+He D. & Donmez B. (2023). Dicovery Project Missions: A Visual-Manual Secondary Task. GitHub repository. https://github.com/hedengbo/NDRT-Discover_Project_Missions.git
