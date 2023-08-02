@@ -1,5 +1,6 @@
 # NDRT-Discover_Project_Missions
-This is the Python code for a self-paced in-vehicle non-driving-related task (NDRT), named "discover project missions".
+This is the Python code for a self-paced in-vehicle non-driving-related task (NDRT), named "discover project missions". The screenshot of the task is provided as "Screenshot.png".
+
 The code is in Pytyhon 2.7. If a newer version of the Python is used, you may need to update corresponding modules.
 
 - The RUNMME Sce1.py is the main code to start the program.
