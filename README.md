@@ -1,13 +1,13 @@
 # NDRT-Discover_Project_Missions
-This is the python code for an in-vehicle non-driving-related task (NDRT), named as discovery project mission.
-The codes are based on Pytyhon 2.7. If newer version of the Python is used, you will need to update corresponding modules when necessary.
+This is the Python code for a self-paced in-vehicle non-driving-related task (NDRT), named "discover project missions".
+The code is in Pytyhon 2.7. If a newer version of the Python is used, you may need to update corresponding modules.
 
 - The RUNMME Sce1.py is the main code to start the program.
 - The largeAnsSet.txt is the file containing the correct answer for each phrase.
 - The largeSet.txt is the file containing all candiate phrases that are used in the program.
 - The RecievingTest.py and SendingTest.py can be used to test the connections between the sender and the receiver computers.
 
-The task is created by Prof. Birsen Donmez (https://hfast.mie.utoronto.ca), updated by Dr. Dengbo He (https://personal.hkust-gz.edu.cn/hedengbo/index.html) 
+The task was developed by Prof. Birsen Donmez (https://hfast.mie.utoronto.ca), and updated by Dr. Dengbo He (https://personal.hkust-gz.edu.cn/hedengbo/index.html) 
 during his Ph.D. study at the University of Toronto, under the guidance of Prof. Donmez.
 
 Selected publications that are based on this NDRT include:
@@ -25,4 +25,4 @@ to recall the target phrase and compare it with the ones on the screen.
 
 - Please cite this code as:
 
-He D. & Donmez B. (2023). Dicovery Project Missions: A Visual-Manual Secondary Task. GitHub repository. https://github.com/hedengbo/NDRT-Discover_Project_Missions.git
+He D. & Donmez B. (2023). Dicover Project Missions: A Visual-Manual Self-Paced Secondary Task for Driving Studies. GitHub repository. https://github.com/hedengbo/NDRT-Discover_Project_Missions.git
